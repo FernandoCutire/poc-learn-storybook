@@ -1,9 +1,4 @@
-# Introducc
 
-Status: No empezado
-¿Publicado?: No
-
-En este artículo crearemos una imagen de docker con base a una aplicación en storybook, esto servirá para que otros desarrolladores puedan correr la aplicación sin proble,as
 
 ## 📰 En este artículo aprenderás
 
