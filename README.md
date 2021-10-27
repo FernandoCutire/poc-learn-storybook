@@ -1,4 +1,4 @@
-# Aprende de contenedores: create-react-app + Storybook + Docker (Con repositorio)
+# Introducc
 
 Status: No empezado
 ¿Publicado?: No
